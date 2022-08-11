@@ -1,0 +1,5 @@
+1. JSP
+    https://www.youtube.com/watch?v=x75BDvhiY68&list=PL786bPIlqEjTzcnx5pcHAmrxvjVYFwLkO
+    https://www.guru99.com/jsp-elements.html
+    https://www.tutorialspoint.com/jsp/jsp_actions.htm
+    https://www.javatpoint.com/jsp-useBean-action
